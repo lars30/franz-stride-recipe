@@ -1,0 +1,14 @@
+{
+  "id": "Stride",
+  "name": "Stride",
+  "version": "0.2",
+  "description": "Stride",
+  "main": "index.js",
+  "author": "Larry Cummings <larry@larry.org>",
+  "license": "MIT",
+  "config": {
+    "hasNotificationSound": true,
+    "hasIndirectMessages": true,
+    "hasCustomUrl": false
+  }
+}
